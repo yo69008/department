@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="errDept">Département inexistant</string>
+    <string name="errNoDept">Numéro de Département inexistant</string>
+    <string name="errNoReg">Le numéro de région doit être un nombre</string>
+    <string name="errSurf">La surface doit être un nombre</string>
+    <string name="errDate">Date de création incorrecte</string>
+
+
+
+</resources>

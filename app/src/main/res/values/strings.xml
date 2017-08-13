@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Departements</string>
+    <string name="noToSearch">N° à chercher</string>
+    <string name="noDept">N° Departements</string>
+    <string name="noRegion">N° Region</string>
+    <string name="nomDept">Nom du département</string>
+    <string name="nomStdDept">Nom standard</string>
+    <string name="areaDept">Surface</string>
+    <string name="createdDateDept">Date de création</string>
+    <string name="capitalDept">Chef-lieu</string>
+    <string name="urlDept">URL</string>
+
+
+</resources>
